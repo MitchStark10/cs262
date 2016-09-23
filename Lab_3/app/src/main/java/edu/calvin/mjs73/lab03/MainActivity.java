@@ -18,6 +18,12 @@ public class MainActivity extends AppCompatActivity {
 
         //set the Editor Action listener for the password input
         ((EditText)findViewById(R.id.passwordInput)).setOnEditorActionListener(
+                /*
+                @param TextView - the text view being clicked
+                @param int - represents the action id that just occurred
+                @param KeyEvent - the event that just happened
+                @return - true if correct event and password, else false
+                 */
                 new EditText.OnEditorActionListener() {
                     public boolean onEditorAction(TextView v, int actionId, KeyEvent event) {
                         if (actionId == EditorInfo.IME_ACTION_SEARCH ||
@@ -28,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
                                 //display image
                                 ImageView iv = (ImageView)findViewById(R.id.imageView);
                                 iv.setVisibility(View.VISIBLE);
+                                return true;
                             }
                         }
                         return false;
