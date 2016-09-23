@@ -1,0 +1,6 @@
+App Idea (tractable) - Recruiting app for coaches. I play on the men's soccer team here at Calvin, and got this
+idea from my coach. He has said that there are currently no good apps (iOS) for coaches to keep track of and recruit
+players. This would just use a simple list of players, along with stats about them, as well as notes that the coach has taken.
+
+App Idea (wacky) - An app that would keep track of the campus parking spaces, and show where spots are open/taken to
+make finding parking spaces easier for off-campus students.

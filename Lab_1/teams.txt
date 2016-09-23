@@ -1,0 +1,22 @@
+Class - Junior
+Major - BCS
+Letter Grades -
+	CS 112 - A
+	CS 212 - A-
+Technical -
+	Java apps - Worked with Java in the Programming Languages course, as well as at my internship at Blue 
+		Medora this past summer.
+	Portable apps - Worked on iOS apps in my free time (just simple games) in Swift
+	GPS-based systems - None
+	Database-driven web sites or services - My internship project was a program that would enter into Nutanix
+		(more or less a kind of database) and retrieve statistics about it using a REST API.
+	
+	I do not have any android devices. I'd prefer to work on iOS, but am willing to do either depending on
+	my team.
+
+	Possible Projects - See ideas.txt
+
+	Big five results: http://www.outofservice.com/bigfive/results/?oR=0.4&cR=0.889&eR=0.312&aR=0.778&nR=0.344&y=1990&g=m
+
+
+Team Requests - Ethan Clark, Mark Davis
