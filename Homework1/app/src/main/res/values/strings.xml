@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework 1</string>
+
+    <string-array name="operations">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+
+</resources>

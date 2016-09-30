@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="edu.calvin.mjs73.homework1.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Value 1:"
+        android:id="@+id/value_one_label" />
+
+    <TextView
+        android:text="Value 2:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/value_one_label"
+        android:layout_alignRight="@+id/value_one_label"
+        android:layout_alignEnd="@+id/value_one_label"
+        android:layout_marginTop="16dp"
+        android:id="@+id/value_two_label" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:layout_alignBottom="@+id/value_two_label"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        android:id="@+id/value_one_input" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:layout_below="@+id/value_one_label"
+        android:layout_alignLeft="@+id/value_one_input"
+        android:layout_alignStart="@+id/value_one_input"
+        android:id="@+id/value_two_input" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="28dp"
+        android:id="@+id/answer_label" />
+
+    <Button
+        android:text="Calculate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="31dp"
+        android:id="@+id/button"
+        android:layout_below="@+id/value_two_input"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:onClick="calculate" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/value_two_input"
+        android:layout_toRightOf="@+id/answer_label"
+        android:layout_marginTop="10dp"
+        android:id="@+id/spinner"
+        android:layout_alignRight="@+id/button"
+        android:layout_alignEnd="@+id/button"
+        android:entries="@array/operations"/>
+</RelativeLayout>
