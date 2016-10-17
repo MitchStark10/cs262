@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mitchstark/Fall_2016_Mac/CS_262/Homework_2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/mitchstark/Fall_2016_Mac/CS_262/Homework_2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_d9d8bc5dbff20b41ffd1e6543aa7d7a4a6f26290/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mitchstark/AndroidStudioProjects/Lab06/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/mitchstark/AndroidStudioProjects/Lab06/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_977f20dd5c5badede9a63c1bddd8ead1ece89538/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mitchstark/Fall_2016_Mac/CS_262/Homework_2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a56075f051992c772f9850ae091e7fc92757c95b">
+        <dex dex="/Users/mitchstark/Fall_2016_Mac/CS_262/Homework_2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b7567910cef64ff3b72c5139e6ae856484e9ae10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mitchstark/Fall_2016_Mac/CS_262/Homework_2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="144b1a05edddc001a44cbd0a9a004d9883745326">
+        <dex dex="/Users/mitchstark/Fall_2016_Mac/CS_262/Homework_2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8799d5f1f7701dad2ca213ff38e159cace3c8b38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mitchstark/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/mitchstark/AndroidStudioProjects/Lab06/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_e23510003fbd92b606cfc11abc6f7aab3bb6bfc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mitchstark/AndroidStudioProjects/Lab06/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="18bebbf0b1b86fbbb591eecc09ea6b1d70515d33">
+        <dex dex="/Users/mitchstark/AndroidStudioProjects/Lab06/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1487784cde7b5b9fa3a49347f2d61769152596aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mitchstark/Fall_2016_Mac/CS_262/Homework_2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/mitchstark/Fall_2016_Mac/CS_262/Homework_2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_5aff8776d51909bf97c97f2cd8d528ec2f1c6caa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mitchstark/AndroidStudioProjects/Lab06/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/mitchstark/AndroidStudioProjects/Lab06/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_17f50cf91ebb76e6cb0713dbf8193090668a161a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mitchstark/AndroidStudioProjects/Lab06/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/mitchstark/AndroidStudioProjects/Lab06/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_5a5304342a6308b3f575d92dbedcfd19c24428aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mitchstark/AndroidStudioProjects/Lab06/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="64a35eab6e34c4cfcf8b0f3094f2c8123c50f1cc">
+        <dex dex="/Users/mitchstark/AndroidStudioProjects/Lab06/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a38906490725ced90e2de80032972b717eb75f0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mitchstark/Fall_2016_Mac/CS_262/Homework_2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/mitchstark/Fall_2016_Mac/CS_262/Homework_2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_19ec4fbd6ca2b1379abefc7329f7d0ee4c4ea5b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mitchstark/Fall_2016_Mac/CS_262/Homework_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/mitchstark/Fall_2016_Mac/CS_262/Homework_2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_65b0c68e7dd2aad3099142e9bc7c3e965d95fea8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mitchstark/Fall_2016_Mac/CS_262/Homework_2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/mitchstark/Fall_2016_Mac/CS_262/Homework_2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_c0d22b840abb435557926a9faa3bca2327d902a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mitchstark/AndroidStudioProjects/Lab06/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/mitchstark/AndroidStudioProjects/Lab06/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_c79a722bac2b7841f36615f20fc7ba9e6a51bbee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mitchstark/AndroidStudioProjects/Lab06/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/mitchstark/AndroidStudioProjects/Lab06/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_75f0b222310c548965c0344750e919bbbd1e353b/classes.dex" />
+    </item>
+
+</items>
