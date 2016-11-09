@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
         try {
             String urlString;
             if (id.equals("")) {
-                urlString = "http://cs262.cs.calvin.edu:8089/monopoly/players";
+                urlString = "http://153.106.116.88:9998/monopoly/players";
             } else {
                 makeList = true;
                 urlString = "http://cs262.cs.calvin.edu:8089/monopoly/player/" +
