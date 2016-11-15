@@ -1,0 +1,7 @@
+I fixed the documentation with @throws, as it wanted a description.
+I made the Player class not public, as it was only used in the package.
+I changed emailaddress variable to email_address in order to avoid the "spelling error".
+
+I did not make any changes to all of the .close() methods because it seemed to me that the exception handling would prevent those lines from being run if there was any other errors in the connection to the DB or the SQL itself. This is also why I left the error to be caught and then re-thrown, which IDEA complained about.
+
+On the client side, stored in the Homework_2/ folder, I made similar changes with documentation and declaration access.
