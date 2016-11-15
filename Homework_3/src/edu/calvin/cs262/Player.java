@@ -6,35 +6,39 @@ package edu.calvin.cs262;
  * @author kvlinden
  * @version summer, 2016
  */
-public class Player {
+class Player {
 
     private int id;
-    private String emailaddress, name;
+    private String email_address, name;
 
-    Player() { /* a default constructor, required by Gson */  }
+    Player() { /* a default constructor, required by Gson */ }
 
     Player(int id, String emailaddress, String name) {
         this.id = id;
-        this.emailaddress = emailaddress;
+        this.email_address = emailaddress;
         this.name = name;
     }
 
     public int getId() {
         return id;
     }
-    public String getEmailaddress() {
-        return emailaddress;
-    }
-    public String getName() {
-        return name;
-    }
 
     public void setId(int id) {
         this.id = id;
     }
-    public void setEmailaddress(String emailaddress) {
-        this.emailaddress = emailaddress;
+
+    public String getEmailaddress() {
+        return email_address;
     }
+
+    public void setEmailaddress(String emailaddress) {
+        this.email_address = emailaddress;
+    }
+
+    public String getName() {
+        return name;
+    }
+
     public void setName(String name) {
         this.name = name;
     }
